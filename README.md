@@ -1,6 +1,4 @@
 # WhatsApp-Chat-Analyzer
-
-
 WhatsApp chat analyzer is a data analysis project that involves natural language processing techniques to extract insights from WhatsApp chat history data. Specifically, it involves extracting, preprocessing, and analyzing the chat history data using NLP techniques to perform tasks such as sentiment analysis, named entity recognition, topic modeling, trend analysis and understanding customer behavior. This project also includes data visualization to present the insights and patterns discovered in the chat history data.
 
 We have to give input as a text file which contains group chats or an individual chatting. To get the text file of the chat follow the simple the below step.
